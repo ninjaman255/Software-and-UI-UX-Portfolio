@@ -44,7 +44,7 @@ class PortfolioHomePage extends StatelessWidget {
                       height: 300,
                       width: 300,
                       child: Image.asset(
-                        "me.jpg",
+                        "assets/images/me.jpg",
                         alignment: AlignmentGeometry.topCenter,
                         fit: BoxFit.fitHeight,
                       ),
