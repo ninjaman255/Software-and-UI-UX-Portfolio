@@ -291,7 +291,7 @@ class PortfolioHomePage extends StatelessWidget {
                     child: Column(
                       children: [
                         Text(
-                          'Contact',
+                          'Contact Me',
                           style: TextStyle(
                               fontSize: 20, fontWeight: FontWeight.w600),
                         ),
@@ -299,6 +299,9 @@ class PortfolioHomePage extends StatelessWidget {
                         Text('(817) 863-1326'),
                         Text(
                             'aaronclevette@gmail.com'), // Placeholder – replace with your actual email
+                        SizedBox(height: 8),
+                        Text(
+                            "(For my references and portfolio of my work please reach out through email!)"),
                         SizedBox(height: 8),
                         Text('Aaron Clevette'),
                       ],
