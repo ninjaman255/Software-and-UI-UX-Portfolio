@@ -283,7 +283,7 @@ class PortfolioHomePage extends StatelessWidget {
                       _buildProjectCard(
                         title: 'Extra Photos',
                         description:
-                            "A collection of photographs from my previous projects with various steps of the design and implementations process.",
+                            "A collection of photographs from my previous projects with various steps of the design and implementations process.\nhttps://drive.google.com/drive/folders/1rSCYDZLkiETivHi4NbW0jG2gsGgpAfjR?usp=sharing",
                         icon: Icons.photo,
                         url:
                             'https://drive.google.com/drive/folders/1rSCYDZLkiETivHi4NbW0jG2gsGgpAfjR?usp=sharing',
