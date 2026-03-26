@@ -280,6 +280,14 @@ class PortfolioHomePage extends StatelessWidget {
                         icon: Icons.car_repair,
                         url: 'https://www.c2report.com/',
                       ),
+                      _buildProjectCard(
+                        title: 'Extra Photos',
+                        description:
+                            "A collection of photographs from my previous projects with various steps of the design and implementations process.",
+                        icon: Icons.photo,
+                        url:
+                            'https://drive.google.com/drive/folders/1rSCYDZLkiETivHi4NbW0jG2gsGgpAfjR?usp=sharing',
+                      ),
                     ],
                   ),
                   const SizedBox(height: 48),
